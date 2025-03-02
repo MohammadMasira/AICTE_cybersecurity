@@ -35,7 +35,7 @@ This is an interactive web application that allows users to **encode** secret me
 ## 📥 **Installation**  
 1. **Clone the Repository**  
 ```bash
-git clone https://github.com/jayasrineerukattu/aicte_cybersecurity.git
+git clone https://github.com/MohammadMasira/AICTE_cybersecurity
 ```
 
 2. **Install Dependencies**  
@@ -131,7 +131,7 @@ Contributions are welcome!
 ---
 
 ## 📧 **Contact**  
-For any queries or suggestions, please contact [Jaya](mailto:njayasree8897@gmail.com).
+For any queries or suggestions, please contact [masira](mailto:masiramohammad68@gmail.com).
 
 ---
 
